@@ -6,7 +6,7 @@ const config = {
   kit: {
     adapter: adapter({ fallback: 'index.html' }),
     paths: {
-      base: dev ? '' : '/portfolio-civica' // ← nome del tuo repo
+      base: dev ? '' : '/portfolio-educazione_civica'
     }
   }
 };
